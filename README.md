@@ -10,7 +10,7 @@ A news website with clean design and interactive features built during HackSerie
 
 ![HERO-SECTION](RD-HEROSEC.png)
 
-![home-page](.RD-HOMEPAGE.png)
+![home-page](RD-HOMEPAGE.png)
 
 ## Technologies
 
