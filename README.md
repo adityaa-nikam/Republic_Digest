@@ -9,7 +9,7 @@ A news website with clean design and interactive features built during HackSerie
 - **Responsive Layout** – Optimized for all devices
 
 ![HERO-SECTION](RD-HEROSEC.png)
-
+             ---
 ![home-page](RD-HOMEPAGE.png)
 
 ## Technologies
