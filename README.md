@@ -10,6 +10,8 @@ A news website with clean design and interactive features built during HackSerie
 - **Minimalist Design** – Clean interface for enhanced readability
 - **Responsive Layout** – Optimized for all devices
 
+![HERO-SECTION](.RD-HEROSEC.png)
+![HERO-SECTION](RD-HEROSEC.png)
 
 ## Technologies
 
